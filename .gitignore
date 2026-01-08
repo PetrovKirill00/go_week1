@@ -9,3 +9,8 @@
 *.test
 
 *.out
+
+f1.txt
+f2.txt
+
+*.pprof
